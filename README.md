@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Soumyadip
 - 🌱 Currently learning Java, DSA & Web Development
 - 💻 Interested in Full Stack Development
-- 🎯 Goal: Become a Full Stack Developer
 - ⚡ Fun fact: I like building side projects and playing games
 
 ## 🌐 Socials:
