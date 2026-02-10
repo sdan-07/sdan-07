@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Soumyadip
-🌱 Currently learning Java, DSA & Web Development
-💻 Exploring Full-Stack Development with NextJS and SpringBoot
+🌱 Currently learning Java, DSA & Web Development  
+💻 Exploring Full-Stack Development with NextJS and SpringBoot  
 ⚡ Fun fact: Side projects, code, and tech experiments
 
 ## 🌐 Socials:
