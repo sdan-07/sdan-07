@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Soumyadip
-🌱 Currently learning Java, DSA & Web Development    
-💻 Exploring Full-Stack Development with NextJS and SpringBoot    
-🚀 Dev Fact: Side projects, code, and tech experiments
+- 🌱 Mastering **Java, DSA & Full Stack Development**    
+- 💻 Exploring **Next.js, SpringBoot & AI Integration**    
+- 🚀 Turning ideas into side projects & tech experiments
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/494624464160686082) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soumyadip-dan-538320303) 
