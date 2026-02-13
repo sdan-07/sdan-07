@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Soumyadip
-- 🌱 Mastering **Java, DSA & Full Stack Development**    
+- 🌱 Mastering **Java, React.js**    
 - 💻 Exploring **Next.js, SpringBoot & AI Integration**    
 - 🚀 Turning ideas into side projects & tech experiments
 
