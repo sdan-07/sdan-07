@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Soumyadip
-- 👨‍💻 Currently learning **SpingBoot**
+- 👨‍💻 Currently learning **SpringBoot**
 - 🌱 Mastering **Java, React.js**    
 - 💻 Exploring **Cloud Technologies & AI Integration**    
 - 🚀 Turning ideas into side projects & tech experiments
