@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Soumyadip
-- 👨‍💻 Currently learning **Next.js**
+- 👨‍💻 Currently learning **SpingBoot**
 - 🌱 Mastering **Java, React.js**    
-- 💻 Exploring **SpringBoot & AI Integration**    
+- 💻 Exploring **Cloud Technologies & AI Integration**    
 - 🚀 Turning ideas into side projects & tech experiments
 
 ## 🌐 Socials:
