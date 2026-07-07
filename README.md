@@ -18,9 +18,6 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ![](https://streak-stats.demolab.com/?user=sdan-07&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sdan-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=sdan-07&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 <!--Hi  My name is Soumyadip Dan
