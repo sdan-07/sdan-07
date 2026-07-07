@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Soumyadip
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Soumyadip
+======================================================================================================================================
+<!--Aspiring Full Stack Developer
+----------------------------- -->
 - 👨‍💻 Currently learning **Prisma ORM**
 - 🌱 Mastering **Java, React.js**    
 - 💻 Exploring **Cloud Technologies & AI Integration**    
@@ -17,3 +20,12 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=sdan-07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<!--Hi  My name is Soumyadip Dan
+
+
+
+*   ✉️  You can contact me at [soumyadipdan7@gmail.com](mailto:soumyadipdan7@gmail.com)
+*   🧠  I'm currently learning Prisma ORM -->
